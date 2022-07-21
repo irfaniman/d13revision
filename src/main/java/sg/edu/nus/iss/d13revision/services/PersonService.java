@@ -12,7 +12,7 @@ public class PersonService {
 
 
     public PersonService() {
-        persons.add(new Person("Mark", "Zuckerbeg"));
+        persons.add(new Person("Mark", "Zuckerberg"));
         persons.add(new Person("Elon", "Musk"));
 
     }
